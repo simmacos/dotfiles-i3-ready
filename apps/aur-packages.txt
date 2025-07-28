@@ -1,0 +1,16 @@
+electron32
+electron33
+feishin-bin
+github-desktop-bin
+gnome-shell-performance
+jellyfin-git
+jellyfin-server-git
+jellyfin-web-git
+nautilus-sendto
+neofetch
+pyroom
+reiserfsprogs
+simplescreenrecorder
+tpacpi-bat
+tp-battery-mode
+wireguird
